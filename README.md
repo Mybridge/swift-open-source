@@ -12,12 +12,11 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 ## Monthly Series for Open Source:
 
-* [v.Feb 2018 - Top 10 Open Source Projects](https://github.com/Mybridge/swift-open-source/blob/master/src/v.Feb-2018.md)
-* v.Mar 2018 - Top 10 Open Source Projects -- Coming Soon
-
+* [v.Feb 2018 - Top 10 Open Source Projects](./src/02-2018.md)
+* [v.Mar 2018 - Top 10 Open Source Projects](./src/03-2018.md)
 
 
 <br>
 
 ### Monthly Series for Article:
-* [Swift Top 10 Articles v.Feb 2018](https://github.com/Mybridge/swift-articles)
+* [Swift Top 10 Articles](https://github.com/Mybridge/swift-articles)
